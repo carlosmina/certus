@@ -1,0 +1,38 @@
+
+form{
+    max-width: 400px;
+    background-color: #b4abab62;
+    margin: auto;
+    padding: 3em;
+}
+
+select{
+    width: 102%;
+    border: 0.2px solid #ffffff;
+    padding: 0.6em;
+    margin-bottom: 0.5em;
+    border-radius: 7px;
+    color: rgb(133, 139, 145);
+}
+
+.input{
+    width: 102%;
+    border: 0.2px solid #ffffff;
+    padding: 0.6em;
+    margin-bottom: 0.5em;
+    border-radius: 7px;
+}
+
+
+h1{
+    color: rgb(93, 93, 209);
+    text-align: center;
+    
+}
+
+.enviar{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
